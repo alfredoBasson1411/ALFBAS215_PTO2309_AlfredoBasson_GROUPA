@@ -1,0 +1,51 @@
+body
+{ margin: 0%;
+    color: rgb(19, 10, 36);
+font-family: monospace;
+background-color: rgb(247, 247, 196);
+}
+.nav{background-color: rgb(63, 145, 125);
+width: 100%;
+padding:0%;
+border-radius: 3px;
+margin: 0%;
+}
+.education{background-color: rgb(63, 143, 135);
+color:black;
+width:50%;
+}
+.Experience{background-color: rgb(63, 92, 97);
+color:black;
+width: 20%;
+}
+.Skills{background-color: rgb(63, 125, 119);
+color:black;
+width:50%;}
+.menu{background-color:lightblue;
+color: black;
+width:20%;}
+.column1{background-color: grey;
+border: 2px;
+margin: 10%;
+border-color: black;
+}
+.column2{background-color: grey;
+margin: 10%;
+border-radius: 0%;
+}
+.skills{background-color: rgb(122, 146, 150);
+}
+.column3{background-color: grey;
+margin: 10%;
+}
+#name{padding: 10px;
+margin: 10%;
+float: right;
+margin-left: 50%;}
+img{border-radius: 50%;
+}
+#Contact{background-color: grey;
+color: black;
+width: 50px;
+padding: 10px;}
+.head1{padding: 1px;}
